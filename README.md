@@ -1,4 +1,7 @@
 # Odoo_Instalación
+
+![1](https://github.com/FranciscoFerreiraT/Odoo_Instalaci-n/assets/92456485/1029ae95-3ff7-44f8-871b-46236be7f50d)
+
 ## Explicación de Docker-compose
 
   
@@ -22,6 +25,7 @@ Define un servicio llamado web que utiliza la imagen de Docker odoo:16.0.
 
          ports:
       - "8069:8069"
+
 
   Mapea los puertos entre el host y el contenedor. En este caso, el puerto 8069 del host se mapea al puerto 8069 del contenedor.
 
@@ -57,7 +61,7 @@ Define volúmenes externos (odoo_data y postgres_data).
 ## Una vez se ejecute el docker compose vamos a nuestro localhost
 
 
-![1](https://github.com/FranciscoFerreiraT/Odoo_Instalaci-n/assets/92456485/1029ae95-3ff7-44f8-871b-46236be7f50d)
+![2](https://github.com/FranciscoFerreiraT/Odoo_Instalaci-n/assets/92456485/ad246a7d-dc6f-4c23-b77c-d2c431b9b8a4)
 
 El odoo ya estaria listo
 
