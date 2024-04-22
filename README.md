@@ -1,4 +1,4 @@
-# Odoo_Instalación
+# Instalacion de Odoo mediante Docker
 
 ![1](https://github.com/FranciscoFerreiraT/Odoo_Instalaci-n/assets/92456485/1029ae95-3ff7-44f8-871b-46236be7f50d)
 
